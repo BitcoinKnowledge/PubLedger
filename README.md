@@ -1,2 +1,3 @@
-# Symbol
-symbols &amp; relations we use
+# PubLedger
+
+A Blockchain for democratic processes & fundamentals. records keeping for a new Republic and era.
